@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gabrielconceicao157
+- 👀 meu gmail para contato e gabriel.conceicao.candido@escola.pr.gov.br
+- 🌱eu estou aprendendo a programar recentemente a linguagem de javascript e scrath
